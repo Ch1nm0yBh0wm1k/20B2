@@ -1,0 +1,5 @@
+C:\Users\DeLL\Desktop\pb\ConsoleAppOOP.exe
+C:\Users\DeLL\Desktop\pb\ConsoleAppOOP.dll
+C:\Users\DeLL\Desktop\pb\ConsoleAppOOP.deps.json
+C:\Users\DeLL\Desktop\pb\ConsoleAppOOP.runtimeconfig.json
+C:\Users\DeLL\Desktop\pb\ConsoleAppOOP.pdb
